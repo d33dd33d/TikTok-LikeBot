@@ -3,6 +3,7 @@
 Welcome to the **TikTok Like Bot**! This Python script lets you send likes to TikTok videos using multiple threads.
 
 ![TikTok Like Bot](https://i.imgur.com/or4qwxm.png)
+
 **(UPDATED 10/2024)**
 
 ---
